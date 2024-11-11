@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student, [Sycamore](https://www.epfl.ch/labs/sycamore/), EPFL, Switzerland
+subtitle: PhD student, Sycamore Lab, EPFL, Switzerland
 
 profile:
   align: right
@@ -15,4 +15,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Kai Ren received his B.Eng. degree in electrical engineering from University of Victoria, and his M.A.Sc. degree in electrical engineering from University of British Columbia, Canada, in 2020 and 2022, respectively. He is currently pursuing his Ph.D. degree with Sycamore Lab at EPFL, Switzerland. His research interests include multi-agent safe trajectory planning in uncertain and interactive environments, with applications to autonomous driving and robotics.
+Kai Ren received his B.Eng. degree in electrical engineering from University of Victoria, and his M.A.Sc. degree in electrical engineering from University of British Columbia, Canada, in 2020 and 2022, respectively. He is currently pursuing his Ph.D. degree with [Sycamore](https://www.epfl.ch/labs/sycamore/) Lab at EPFL, Switzerland. His research interests include multi-agent safe trajectory planning in uncertain and interactive environments, with applications to autonomous driving and robotics.
