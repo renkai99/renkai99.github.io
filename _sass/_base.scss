@@ -669,10 +669,9 @@ footer.sticky-bottom {
 
   h2 {
     margin-bottom: 1rem;
-    display: none;
 
     span {
-      font-size: 1.5rem;
+      font-size: 1rem;
     }
   }
 
@@ -680,9 +679,9 @@ footer.sticky-bottom {
     color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
-    margin-top: 2rem;
+    font-size: 0.5rem;   /* adjust as needed */
+    margin-top: 0.5rem;  /* optional to pull it closer */
     text-align: right;
-    display: none;
   }
 
   ol.bibliography {
