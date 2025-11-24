@@ -671,16 +671,16 @@ footer.sticky-bottom {
     margin-bottom: 1rem;
 
     span {
-      font-size: 1rem;
+      font-size: 1.5rem;
     }
   }
 
   h2.bibliography {
     color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);
+    display: none;
     padding-top: 1rem;
-    font-size: 0.5rem;   /* adjust as needed */
-    margin-top: 0.5rem;  /* optional to pull it closer */
+    margin-top: 2rem;
     text-align: right;
   }
 
